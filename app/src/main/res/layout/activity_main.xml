@@ -148,7 +148,7 @@
                     android:layout_height="40dp"
                     android:layout_marginBottom="1dp"
                     app:layout_constraintBottom_toBottomOf="parent"
-                    app:srcCompat="@drawable/Icon_Cnta" />
+                    app:srcCompat="@drawable/ic_cuenta" />
 
                 <TextView
                     android:id="@+id/textView10"
@@ -187,7 +187,7 @@
                     android:layout_height="40dp"
                     android:layout_marginBottom="1dp"
                     app:layout_constraintBottom_toBottomOf="parent"
-                    app:srcCompat="@drawable/Icon_Inversion" />
+                    app:srcCompat="@drawable/ic_inversion" />
 
                 <TextView
                     android:id="@+id/textView11"
